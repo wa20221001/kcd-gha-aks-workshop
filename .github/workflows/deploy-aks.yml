@@ -12,7 +12,7 @@ permissions:
 env:
   RESOURCE_GROUP: myResourceGroup
   AKS_CLUSTER_NAME: myAKSCluster
-  LOCATION: australiawest
+  LOCATION: southeastasia
 
 jobs:
   build:
