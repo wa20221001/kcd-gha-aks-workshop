@@ -12,7 +12,7 @@ permissions:
   checks: write # Required for status checks
 
 env:
-  RESOURCE_GROUP: myResourceGroup
+  RESOURCE_GROUP: myResourceGroup2
   AKS_CLUSTER_NAME: myAKSCluster
 
 jobs:
